@@ -56,4 +56,4 @@ This is a fan-made, non-commercial Turkish localization patch for LEGO DC Super-
 
 ## 👥 Emeği Geçenler / Credits
 * **Çeviri & Entegrasyon / Translation & Integration:** ata3336
-* **Teknolojiler / Technologies:** Machine Translation, Google Gemini AI
+* **Teknolojiler / Technologies:** Machine Translation, Google Gemini AI and GitHub Copilot
